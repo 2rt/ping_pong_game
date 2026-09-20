@@ -29,7 +29,7 @@ A 2-player Pong game built in Java/JavaFX. Made this to get hands on with multi 
 
 1. Clone the repo:
    ```
-   git clone <your-repo-url>
+   git clone [<your-repo-url>](https://github.com/2rt/ping_pong_game)
    cd Project_1_Part_3
    ```
 2. Create the database:
